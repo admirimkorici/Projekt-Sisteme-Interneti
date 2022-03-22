@@ -1,0 +1,91 @@
+﻿@model Projekt_Sisteme_Interneti.Models.Ditet
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Ditet</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Dega.Emri)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dega.Emri)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Grupi.EmGrupi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Grupi.EmGrupi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Viti.Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Viti.Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dita)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dita)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Lenda)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Lenda)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pedagogu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pedagogu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LlojiOres)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LlojiOres)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ora)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ora)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Salla)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Salla)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

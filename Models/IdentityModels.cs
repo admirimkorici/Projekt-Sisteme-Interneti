@@ -20,6 +20,11 @@ namespace Projekt_Sisteme_Interneti.Models
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
+        public DbSet<Employee> Employee { get; set; }
+        public DbSet<Dega> Dega { get; set; }
+        public DbSet<Viti> Viti { get; set; }
+        public DbSet<Grupi> Grupi { get; set; }
+        public DbSet<Ditet> Ditet { get; set; }
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {

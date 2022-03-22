@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Projekt_Sisteme_Interneti.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Experienc)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Experienc)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
+@*@Html.ActionLink("Download as Excel File", "DownloadExcel", "Employees", new { @class = "btn btn-success"})*@
+@using (Html.BeginForm("DownloadExcel", "Employees", FormMethod.Get))
+{
+    <input type="text" name="Derguesi" placeholder="Derguesi" />
+    <input type="text" name="Marresi" placeholder="Marresi" />
+    <input type="text" name="Subjekti" placeholder="Subjekti" />
+    <input type="submit" value="Download as Excel File" class="btn btn-success" />
+}

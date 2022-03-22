@@ -45,10 +45,31 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=5.8.7.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.5.8.7\lib\net45\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Extensions, Version=2.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.Extensions.2.0.1\lib\net45\EPPlus.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=1.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.IO.RecyclableMemoryStream.1.4.1\lib\net46\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.ComponentModel.Annotations.4.7.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -112,12 +133,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="EntityFramework">
-      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
-    </Reference>
-    <Reference Include="EntityFramework.SqlServer">
-      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.AspNet.Identity.Core">
       <HintPath>packages\Microsoft.AspNet.Identity.Core.2.2.3\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
     </Reference>
@@ -168,15 +183,57 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\DegaController.cs" />
+    <Compile Include="Controllers\DitetController.cs" />
+    <Compile Include="Controllers\EmployeesController.cs" />
+    <Compile Include="Controllers\GrupiController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\VitiController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202203192038597_AddTable.cs" />
+    <Compile Include="Migrations\202203192038597_AddTable.Designer.cs">
+      <DependentUpon>202203192038597_AddTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203221535543_removeTable.cs" />
+    <Compile Include="Migrations\202203221535543_removeTable.Designer.cs">
+      <DependentUpon>202203221535543_removeTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203221549219_AddTables.cs" />
+    <Compile Include="Migrations\202203221549219_AddTables.Designer.cs">
+      <DependentUpon>202203221549219_AddTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203221553141_modifyTableName.cs" />
+    <Compile Include="Migrations\202203221553141_modifyTableName.Designer.cs">
+      <DependentUpon>202203221553141_modifyTableName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203221820024_modifyDatabase.cs" />
+    <Compile Include="Migrations\202203221820024_modifyDatabase.Designer.cs">
+      <DependentUpon>202203221820024_modifyDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203221854256_RemoveTables.cs" />
+    <Compile Include="Migrations\202203221854256_RemoveTables.Designer.cs">
+      <DependentUpon>202203221854256_RemoveTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203221920220_removeDitet.cs" />
+    <Compile Include="Migrations\202203221920220_removeDitet.Designer.cs">
+      <DependentUpon>202203221920220_removeDitet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202203221926376_lastModify.cs" />
+    <Compile Include="Migrations\202203221926376_lastModify.Designer.cs">
+      <DependentUpon>202203221926376_lastModify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Dega.cs" />
+    <Compile Include="Models\Ditet.cs" />
+    <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\Grupi.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
-    <Compile Include="Models\Orari.cs" />
+    <Compile Include="Models\Viti.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -236,6 +293,31 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Employees\Create.cshtml" />
+    <Content Include="Views\Employees\Delete.cshtml" />
+    <Content Include="Views\Employees\Details.cshtml" />
+    <Content Include="Views\Employees\Edit.cshtml" />
+    <Content Include="Views\Employees\Index.cshtml" />
+    <Content Include="Views\Dega\Create.cshtml" />
+    <Content Include="Views\Dega\Delete.cshtml" />
+    <Content Include="Views\Dega\Details.cshtml" />
+    <Content Include="Views\Dega\Edit.cshtml" />
+    <Content Include="Views\Dega\Index.cshtml" />
+    <Content Include="Views\Viti\Create.cshtml" />
+    <Content Include="Views\Viti\Delete.cshtml" />
+    <Content Include="Views\Viti\Details.cshtml" />
+    <Content Include="Views\Viti\Edit.cshtml" />
+    <Content Include="Views\Viti\Index.cshtml" />
+    <Content Include="Views\Grupi\Create.cshtml" />
+    <Content Include="Views\Grupi\Delete.cshtml" />
+    <Content Include="Views\Grupi\Details.cshtml" />
+    <Content Include="Views\Grupi\Edit.cshtml" />
+    <Content Include="Views\Grupi\Index.cshtml" />
+    <Content Include="Views\Ditet\Create.cshtml" />
+    <Content Include="Views\Ditet\Delete.cshtml" />
+    <Content Include="Views\Ditet\Details.cshtml" />
+    <Content Include="Views\Ditet\Edit.cshtml" />
+    <Content Include="Views\Ditet\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -252,6 +334,32 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202203192038597_AddTable.resx">
+      <DependentUpon>202203192038597_AddTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203221535543_removeTable.resx">
+      <DependentUpon>202203221535543_removeTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203221549219_AddTables.resx">
+      <DependentUpon>202203221549219_AddTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203221553141_modifyTableName.resx">
+      <DependentUpon>202203221553141_modifyTableName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203221820024_modifyDatabase.resx">
+      <DependentUpon>202203221820024_modifyDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203221854256_RemoveTables.resx">
+      <DependentUpon>202203221854256_RemoveTables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203221920220_removeDitet.resx">
+      <DependentUpon>202203221920220_removeDitet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202203221926376_lastModify.resx">
+      <DependentUpon>202203221926376_lastModify.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
