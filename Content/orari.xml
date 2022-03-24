@@ -1,0 +1,1586 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="orari.xsl"?>
+<Orari>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>15</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Florion Cela</Pedagogu>
+        <Salla>302A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>16</Ora>
+        <Lenda>Sisteme Logjike</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Petrika Manika</Pedagogu>
+        <Salla>D3</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>18</Ora>
+        <Lenda>Sisteme Logjike</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Petrika Manika</Pedagogu>
+        <Salla>302A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>16</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Florion Cela</Pedagogu>
+        <Salla>302A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>17</Ora>
+        <Lenda>Sisteme Logjike</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Petrika Manika</Pedagogu>
+        <Salla>D3</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>19</Ora>
+        <Lenda>Sisteme Logjike</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Petrika Manika</Pedagogu>
+        <Salla>302A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>8</Ora>
+        <Lenda>Programim e Struktura të dhenash </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Ilma Lili</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>9</Ora>
+        <Lenda>Programim e Struktura të dhenash </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Ilma Lili</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe
+ Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>11</Ora>
+        <Lenda>Programim e Struktura të dhenash </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Ilma Lili</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>12</Ora>
+        <Lenda>Programim e Struktura të dhenash </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Ilma Lili</Pedagogu>
+        <Salla>D5</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>13</Ora>
+        <Lenda>Analize n-permasore</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Artur Stringa</Pedagogu>
+        <Salla>101B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>14</Ora>
+        <Lenda>Analize n-permasore</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Artur Stringa</Pedagogu>
+        <Salla>101B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Anglisht 1</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Elsa Zela</Pedagogu>
+        <Salla>D6</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>11</Ora>
+        <Lenda>Anglisht 1</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Elsa Zela</Pedagogu>
+        <Salla>D5</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>12</Ora>
+        <Lenda>Analize n-permasore</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Artur Stringa</Pedagogu>
+        <Salla>216A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>13</Ora>
+        <Lenda>Analize n-permasore</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Artur Stringa</Pedagogu>
+        <Salla>216A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>14</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Florion Cela</Pedagogu>
+        <Salla>D4</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Florion Cela</Pedagogu>
+        <Salla>D4</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>16</Ora>
+        <Lenda>Programim e Struktura të dhenash </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Ilma Lili</Pedagogu>
+        <Salla>301A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>17</Ora>
+        <Lenda>Programim e Struktura të dhenash </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Ilma Lili</Pedagogu>
+        <Salla>301A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>18</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Florion Cela</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>19</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Florion Cela</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>14</Ora>
+        <Lenda>Sisteme Logjike</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Petrika Manika</Pedagogu>
+        <Salla>212A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Sisteme Logjike</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Petrika Manika</Pedagogu>
+        <Salla>212A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>16</Ora>
+        <Lenda>S
+isteme Logjike</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Petrika Manika</Pedagogu>
+        <Salla>D3</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>17</Ora>
+        <Lenda>Sisteme Logjike</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Petrika Manika</Pedagogu>
+        <Salla>D3</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>8</Ora>
+        <Lenda>Analize n-permasore</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Albion Isaj</Pedagogu>
+        <Salla>304/1C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>9</Ora>
+        <Lenda>Analize n-permasore</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Albion Isaj</Pedagogu>
+        <Salla>304/1C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>11</Ora>
+        <Lenda>Programim e Struktura të dhenash </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Ilma Lili</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>12</Ora>
+        <Lenda>Programim e Struktura të dhenash </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Ilma Lili</Pedagogu>
+        <Salla>D5</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>14</Ora>
+        <Lenda>Analize n-permasore</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Artur Stringa</Pedagogu>
+        <Salla>101B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>13</Ora>
+        <Lenda>Analize n-permasore</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Artur Stringa</Pedagogu>
+        <Salla>101B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>14</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Florion Cela</Pedagogu>
+        <Salla>D4</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Florion Cela</Pedagogu>
+        <Salla>D4</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>8</Ora>
+        <Lenda>Anglisht 1</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Elsa Zela</Pedagogu>
+        <Salla>302A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>8</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Artur Baxhaku</Pedagogu>
+        <Salla>412A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>9</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Artur Baxhaku</Pedagogu>
+        <Salla>412A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>10</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Rigena Sema</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>11</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Rigena Sema</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>9</Ora>
+        <Lenda>Strukturë të dhënash nën C</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Denis Saatciu</Pedagogu>
+        <Salla>313A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Strukturë të dhënash nën C</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Denis Saatciu</Pedagogu>
+        <Salla>D5</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>8</Ora>
+        <Lenda>Fizike</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Er
+jon Spahiu</Pedagogu>
+        <Salla>D5</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>9</Ora>
+        <Lenda>Fizike</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Erjon Spahiu</Pedagogu>
+        <Salla>D5</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>10</Ora>
+        <Lenda>Strukturë të dhënash nën C</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Denis Saatciu</Pedagogu>
+        <Salla>101A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>11</Ora>
+        <Lenda>Strukturë të dhënash nën C</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Denis Saatciu</Pedagogu>
+        <Salla>101A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>8</Ora>
+        <Lenda>Matematike </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu> Besiana Hamzallari</Pedagogu>
+        <Salla>D4</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>9</Ora>
+        <Lenda>Matematike </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu> Besiana Hamzallari</Pedagogu>
+        <Salla>D4</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Matematike </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Besiana Hamzallari</Pedagogu>
+        <Salla>204C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Matematike </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Besiana Hamzallari</Pedagogu>
+        <Salla>204C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>13</Ora>
+        <Lenda>Fizike</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Lindita Hamolli</Pedagogu>
+        <Salla>304/1C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>14</Ora>
+        <Lenda>Fizike</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Lindita Hamolli</Pedagogu>
+        <Salla>204/1C</Salla>
+    </row>
+    <row
+>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>8</Ora>
+        <Lenda>Anglisht 1</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Blerta Ajazi</Pedagogu>
+        <Salla>301B</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>9</Ora>
+        <Lenda>Anglisht 1</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Blerta Ajazi</Pedagogu>
+        <Salla>301B</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Anglisht 1</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Blerta Ajazi</Pedagogu>
+        <Salla>301B</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>8</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Artur Baxhaku</Pedagogu>
+        <Salla>412A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>9</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Artur Baxhaku</Pedagogu>
+        <Salla>412A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>9</Ora>
+        <Lenda>Strukturë të dhënash nën C</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Denis Saatciu</Pedagogu>
+        <Salla>313A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Strukturë të dhënash nën C</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Denis Saatciu</Pedagogu>
+        <Salla>D5</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>13</Ora>
+        <Lenda>Anglisht 1</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Enkeleda Laze</Pedagogu>
+        <Salla>304C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>14</Ora>
+        <Lenda>Anglisht 1</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Enkeleda Laze</Pedagogu>
+        <Salla>304C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Anglisht 1</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Enkeleda Laze</Pedagogu>
+        <Salla>204C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>8</Ora>
+        <Lenda>Fizike</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Erjon Spahiu</Pedagogu>
+        <Salla>D5</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>9</Ora>
+        <Lenda>Fizike</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Erjon Spahiu</Pedagogu>
+        <Salla>D5</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>10</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Rigena Sema</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>11</Ora>
+        <Lenda>Algjeber</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Rigena Sema</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>13</Ora>
+        <Lenda>Strukturë të dhënash nën C</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Denis Saatciu</Pedagogu>
+        <Salla>202A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>14</Ora>
+        <Lenda>Strukturë të dhënash nën C</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Denis Saatciu</Pedagogu>
+        <Salla>202A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>8</Ora>
+        <Lenda>Matematike </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Besiana Hamzallari</Pedagogu>
+        <Salla>D4</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>9</Ora>
+        <Lenda>Matematike </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Besiana Hamzallari</Pedagogu>
+        <Salla>D4</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Fizike</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Lindita Hamolli</Pedagogu>
+        <Salla>412A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>1</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>11</Ora>
+        <Lenda>Fizike</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Lindita Hamolli</Pedagogu>
+        <Salla>106C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>8</Ora>
+        <Lenda>Algoritmikë </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Malvina Halilaj</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>9</Ora>
+        <Lenda>Algoritmikë </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Malvina Halilaj</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>10</Ora>
+        <Lenda>Programim Java</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Emiranda Loka</Pedagogu>
+        <Salla>201A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>11</Ora>
+        <Lenda>Programim Java</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Emiranda Loka</Pedagogu>
+        <Salla>101A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Programim Java</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Alda Kika</Pedagogu>
+        <Salla>D1</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>11</Ora>
+        <Lenda>Programim Java</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Alda Kika</Pedagogu>
+        <Salla>D1</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>12</Ora>
+        <Lenda>Matematike e Aplikuar</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Klodiana Bani</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>13</Ora>
+        <Lenda>Matematike e Aplikuar</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Klodiana Bani</Pedagogu>
+        <Salla>212A</Salla>
+    </row>
+    <row>
+        <Emri>Informa
+tike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>14</Ora>
+        <Lenda>Matematike e Aplikuar</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Klodiana Bani</Pedagogu>
+        <Salla>118A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Matematike e Aplikuar</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Klodiana Bani</Pedagogu>
+        <Salla>118A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>12</Ora>
+        <Lenda>UML </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Klesti Hoxha</Pedagogu>
+        <Salla>D1</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>13</Ora>
+        <Lenda>UML </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Klesti Hoxha</Pedagogu>
+        <Salla>D1</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>14</Ora>
+        <Lenda>UML </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Sonila Qorraj</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>15</Ora>
+        <Lenda>UML </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Sonila Qorraj</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>18</Ora>
+        <Lenda>Algoritmikë </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Grigorina Boce</Pedagogu>
+        <Salla>204/1C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>19</Ora>
+        <Lenda>Algoritmikë </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Grigorina Boce</Pedagogu>
+        <Salla>204/1C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>8</Ora>
+        <Lenda>Anglisht 2</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Ina Cani</Pedagogu>
+        <Salla>216A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>9</Ora>
+        <Lenda>Anglish
+t 2</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Ina Cani</Pedagogu>
+        <Salla>215C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>8</Ora>
+        <Lenda>Algoritmikë </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Malvina Halilaj</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>9</Ora>
+        <Lenda>Algoritmikë </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Malvina Halilaj</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>12</Ora>
+        <Lenda>Programim Java</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Emiranda Loka</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>13</Ora>
+        <Lenda>Programim Java</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Emiranda Loka</Pedagogu>
+        <Salla>105C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Programim Java</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Alda Kika</Pedagogu>
+        <Salla>D1</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>11</Ora>
+        <Lenda>Programim Java</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Alda Kika</Pedagogu>
+        <Salla>D1</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>12</Ora>
+        <Lenda>Matematike e Aplikuar</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Klodiana Bani</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>13</Ora>
+        <Lenda>Matematike e Aplikuar</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Klodiana Bani</Pedagogu>
+        <Salla>212A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>12</Ora>
+        <Lenda>UML </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Klesti Hoxha</Pedagogu>
+        <Salla>D1
+        </Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>13</Ora>
+        <Lenda>UML </Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Klesti Hoxha</Pedagogu>
+        <Salla>D1</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>14</Ora>
+        <Lenda>UML </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Sonila Qorraj</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>15</Ora>
+        <Lenda>UML </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Sonila Qorraj</Pedagogu>
+        <Salla>D2</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>14</Ora>
+        <Lenda>Matematike e Aplikuar</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Arnisa Sokoli</Pedagogu>
+        <Salla>215C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Matematike e Aplikuar</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Arnisa Sokoli</Pedagogu>
+        <Salla>215C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Algoritmikë </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Grigorina Boce</Pedagogu>
+        <Salla>304/1C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>17</Ora>
+        <Lenda>Algoritmikë </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Grigorina Boce</Pedagogu>
+        <Salla>304/1C</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Anglisht 2</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Ina Cani</Pedagogu>
+        <Salla>212A</Salla>
+    </row>
+    <row>
+        <Emri>Informatike</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>B2</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>11</Ora>
+        <Lenda>Anglisht 2</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Ina Cani</Pedagogu>
+        <Salla>302A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>8</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>301B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>9</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>301B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>10</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>D6</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>17</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>D1</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>15</Ora>
+        <Lenda>Sisteme multimediale</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Anxhela Kosta</Pedagogu>
+        <Salla>D3</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>16</Ora>
+        <Lenda>Sisteme multimediale</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Anxhela Kosta</Pedagogu>
+        <Salla>304C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>17</Ora>
+        <Lenda>Sisteme multimediale</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Anxhela Kosta</Pedagogu>
+        <Salla>304C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>14</Ora>
+        <Lenda>Sisteme shfrytëzimi</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Endri Xhina</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Sisteme shfrytëzimi</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Endri Xhina</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>16</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>204C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>17</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>204C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>18</Ora>
+        <Lenda>Sisteme shfrytëzimi</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Suela Maxhelaku</Pedagogu>
+        <Salla>304/1C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>19</Ora>
+        <Lenda>Sisteme shfrytëzimi</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Suela Maxhelaku</Pedagogu>
+        <Salla>304/1C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>8</Ora>
+        <Lenda>Baza të dhënash</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Odeta Kromici</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>9</Ora>
+        <Lenda>Baza të dhënash</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Odeta Kromici</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Baza të dhënash</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Odeta Kromici</Pedagogu>
+        <Salla>317A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>11</Ora>
+        <Lenda>Anglisht 2</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Olsa Xhina</Pedagogu>
+        <Salla>204C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A1</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>12</Ora>
+        <Lenda>Anglisht 2</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Olsa Xhina</Pedagogu>
+        <Salla>215C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>8</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>301B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>9</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>301B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E hene</Dita>
+        <Ora>10</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>D6</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>317A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>16</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>317A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E marte</Dita>
+        <Ora>17</Ora>
+        <Lenda>Telekomunikim dhe rrjeta</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Nikollaq Terezi</Pedagogu>
+        <Salla>D1</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure
+        </Dita>
+        <Ora>15</Ora>
+        <Lenda>Sisteme multimediale</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Anxhela Kosta</Pedagogu>
+        <Salla>D3</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>16</Ora>
+        <Lenda>Sisteme multimediale</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Anxhela Kosta</Pedagogu>
+        <Salla>304C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E merkure</Dita>
+        <Ora>17</Ora>
+        <Lenda>Sisteme multimediale</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Anxhela Kosta</Pedagogu>
+        <Salla>304C</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>10</Ora>
+        <Lenda>Anglisht 2</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Olsa Xhina</Pedagogu>
+        <Salla>202A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>11</Ora>
+        <Lenda>Anglisht 2</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Olsa Xhina</Pedagogu>
+        <Salla>202A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>14</Ora>
+        <Lenda>Sisteme shfrytëzimi</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Endri Xhina</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>15</Ora>
+        <Lenda>Sisteme shfrytëzimi</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Endri Xhina</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>16</Ora>
+        <Lenda>Sisteme shfrytëzimi</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Suela Maxhelaku</Pedagogu>
+        <Salla>301A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E enjte</Dita>
+        <Ora>17</Ora>
+        <Lenda>Sisteme shfrytëzimi
+        </Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Suela Maxhelaku</Pedagogu>
+        <Salla>301A</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>8</Ora>
+        <Lenda>Baza të dhënash</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Odeta Kromici</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>9</Ora>
+        <Lenda>Baza të dhënash</Lenda>
+        <LlojiOres>Leksion</LlojiOres>
+        <Pedagogu>Odeta Kromici</Pedagogu>
+        <Salla>401B</Salla>
+    </row>
+    <row>
+        <Emri>Teknologji Informacioni dhe Komunikimi</Emri>
+        <NrViti>2</NrViti>
+        <EmGrupi>A2</EmGrupi>
+        <Dita>E premte</Dita>
+        <Ora>11</Ora>
+        <Lenda>Baza të dhënash</Lenda>
+        <LlojiOres>Seminar</LlojiOres>
+        <Pedagogu>Odeta Kromici</Pedagogu>
+        <Salla>216A</Salla>
+    </row>
+</Orari>
