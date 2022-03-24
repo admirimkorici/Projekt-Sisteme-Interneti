@@ -28,7 +28,7 @@ namespace Projekt_Sisteme_Interneti.Controllers
             ExcelPackage pck = new ExcelPackage();
             ExcelWorksheet ws = pck.Workbook.Worksheets.Add("Report");
 
-            ws.Cells["A1"].Value = "Communication";
+            ws.Cells["A1"].Value = "List Punonjesish";
             ws.Cells["B1"].Value = "Com1";
 
             ws.Cells["A2"].Value = "Report";
@@ -46,13 +46,13 @@ namespace Projekt_Sisteme_Interneti.Controllers
             ws.Cells["A6"].Value = "Marresi";
             ws.Cells["B6"].Value = Marresi;
 
-            ws.Cells["A7"].Value = "EmployeeId";
-            ws.Cells["B7"].Value = "Name";
-            ws.Cells["C7"].Value = "Email";
-            ws.Cells["D7"].Value = "Phone";
-            ws.Cells["E7"].Value = "Experienc";
+            ws.Cells["A8"].Value = "EmployeeId";
+            ws.Cells["B8"].Value = "Name";
+            ws.Cells["C8"].Value = "Email";
+            ws.Cells["D8"].Value = "Phone";
+            ws.Cells["E8"].Value = "Experienc";
 
-            int rowStart = 8;
+            int rowStart = 10;
             foreach(var item in emplist)
             {
                 ws.Cells[string.Format("A{0}", rowStart)].Value = item.Id;
@@ -62,7 +62,7 @@ namespace Projekt_Sisteme_Interneti.Controllers
                 ws.Cells[string.Format("E{0}", rowStart)].Value = item.Experienc;
                 rowStart++;
             }
-            ws.Cells["B11"].Formula = "E7 + E8 + E9";
+            ws.Cells["B15"].Formula = "E10 + E11 + E12";
 
             ws.Cells["A:AZ"].AutoFitColumns();
             Response.Clear();
