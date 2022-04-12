@@ -9,6 +9,10 @@ using System.Web.Mvc;
 using OfficeOpenXml;
 using EPPlus; 
 using Projekt_Sisteme_Interneti.Models;
+using System.Text;
+using System.IO;
+using DocumentFormat.OpenXml.Bibliography;
+using System.Activities.Statements;
 
 namespace Projekt_Sisteme_Interneti.Controllers
 {
@@ -68,11 +72,30 @@ namespace Projekt_Sisteme_Interneti.Controllers
             Response.Clear();
             Response.ContentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
 
-            Response.AddHeader("content-disposition", "attachment: filename=" + "ExcelReport.xlsx");
+            Response.AddHeader("content-disposition", "attachment: filename=ExcelReport.xlsx");
             Response.BinaryWrite(pck.GetAsByteArray());
             Response.End();
         }
 
+        public FileStreamResult CreateFile()
+        {
+            
+            var rez = db.Employee.ToList();
+            var str = "";
+            
+                foreach (var item in rez)
+                {
+                    var str2 = item.Name + "\t" + item.Phone + "\t" + item.Email + "\t" + item.Experienc + "\n";
+                    str += str2;
+                }
+            
+           
+
+            var bytearray = Encoding.ASCII.GetBytes(str);
+            var stream = new MemoryStream(bytearray);
+
+            return File(stream, "text/plain", "Pagesat.txt");
+        }
         // GET: Employees/Details/5
         public ActionResult Details(int? id)
         {
