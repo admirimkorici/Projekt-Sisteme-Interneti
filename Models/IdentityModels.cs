@@ -25,6 +25,7 @@ namespace Projekt_Sisteme_Interneti.Models
         public DbSet<Viti> Viti { get; set; }
         public DbSet<Grupi> Grupi { get; set; }
         public DbSet<Ditet> Ditet { get; set; }
+        public DbSet<Komente> Komente { get; set; }
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
