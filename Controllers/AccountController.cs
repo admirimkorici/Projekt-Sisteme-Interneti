@@ -12,6 +12,7 @@ using Projekt_Sisteme_Interneti.Models;
 
 namespace Projekt_Sisteme_Interneti.Controllers
 {
+    [SessionTimeout]
     [Authorize]
     public class AccountController : Controller
     {
